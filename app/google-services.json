@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "921551269016",
+    "project_id": "clinic-kursach",
+    "storage_bucket": "clinic-kursach.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921551269016:android:9e9fb8a9a8a78fcf79f4ed",
+        "android_client_info": {
+          "package_name": "com.example.clinic_kursach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921551269016-b7apt249eh4bs0pm9n3sa8mird5ocfll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clinic_kursach",
+            "certificate_hash": "677e076c32272fdde117e33d9fab207b47379740"
+          }
+        },
+        {
+          "client_id": "921551269016-k8f3ltk4i28fkm0k58t8gkqsjmta8qjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADn0KYHgAUBLzPe_kC0G_gkrIaJh6iKGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921551269016-k8f3ltk4i28fkm0k58t8gkqsjmta8qjv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
